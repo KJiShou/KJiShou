@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjishou&label=Profile%20views&color=0e75b6&style=flat" alt="kjishou" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Golang**
+- 🌱 I’m currently learning **ReactJS, Golang, Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
