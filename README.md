@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Kong Ji Shou</h1>
-<h3 align="center">A passionate developer from Malaysia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kjishou&label=Profile%20views&color=0e75b6&style=flat" alt="kjishou" /> </p>
+# Kong Ji Shou
 
-- 🌱 I’m currently learning **Python, C++, Java**
+**Student at TARUMT (Malaysia) | Interactive Software Technology | Aspiring Game Developer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=KJiShou&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/KJiShou)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjishou&show_icons=true&locale=en&layout=compact" alt="kjishou" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjishou&show_icons=true&locale=en" alt="kjishou" /></p>
+I am currently studying at **TARUMT**, majoring in **Interactive Software Technology**.
+My long-term goal is to become a **Game Developer** and build games with strong gameplay feel and polished user experience.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjishou&" alt="kjishou" /></p>
+- Learning path: `C++`, `C#`, `Unity`, `Python`, `JavaScript/TypeScript`
+- Current focus: game systems, gameplay programming, and software engineering fundamentals
+- Open to collaboration on: beginner-friendly game dev and interactive projects
+
+## Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unity,python,java,js,ts,html,css,react,mysql,git" />
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KJiShou&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJiShou&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KJiShou&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 2026 Goals
+
+- Build and publish small playable game prototypes
+- Improve game architecture and clean code practices
+- Contribute more consistently on GitHub
+
+## Contact
+
+- GitHub: [@KJiShou](https://github.com/KJiShou)
+
