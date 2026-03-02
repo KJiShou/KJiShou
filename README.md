@@ -26,8 +26,8 @@ My long-term goal is to become a **Game Developer** and build games with strong 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KJiShou&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJiShou&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=KJiShou&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KJiShou&theme=tokyonight" />
 </div>
 
 <div align="center">
