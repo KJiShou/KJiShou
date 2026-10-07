@@ -59,5 +59,3 @@ Presented **“Personality-Modulated NPC Emotion Dynamics for Game Dialogue”**
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg" />
   <img src="assets/activity-light.svg" alt="Kong Ji Shou's GitHub contributions over the most recent 31 days" width="100%" />
 </picture>
-
-The graph is refreshed daily by GitHub Actions. If an update fails, the last generated image remains available.
