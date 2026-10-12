@@ -2,7 +2,7 @@
 
 # Kong Ji Shou
 
-**Game Development · Graphics Programming · Applied AI**
+**Game Development**
 
 Computer Science student in Interactive Software Technology at TARUMT, Malaysia.
 
